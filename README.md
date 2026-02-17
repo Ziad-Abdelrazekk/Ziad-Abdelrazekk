@@ -8,112 +8,150 @@
 
 # Ziad Abdelrazek
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-Stack+%26+Systems+Engineer;Realtime+Systems+%E2%80%A2+Voice+%2F+VoIP+%E2%80%A2+AI+Automation;Shipping+end-to-end+products+that+scale.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=840&lines=Full-Stack+%26+Systems+Engineer;Realtime+Systems+%E2%80%A2+Voice+%2F+VoIP+%E2%80%A2+AI+Automation;I+ship+end-to-end+products+fast+%E2%80%94+and+make+them+hold+up.)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:ziadabdelrazekk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ziad-abd-el-razek/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://Ziad-Abdelrazekk.dev">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://github.com/Ziad-Abdelrazekk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Ziad-Abdelrazekk?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Ziad-Abdelrazekk&style=flat-square&color=58A6FF&label=Profile+views" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Ziad-Abdelrazekk&style=flat-square&color=58A6FF&label=Profile+views" alt="profile views"/>
 
 </div>
 
 ---
 
-## ⚡ What I’m building now
+## ⚡ Highlights (the stuff I’m known for)
 
-- Low-latency **realtime voice + web products** — STT → LLM → TTS pipelines, WebSocket-driven dashboards
-- Systems that ship fast **and** hold up under production load (profiling, alerting, reliability patterns)
-- Automation that cuts manual ops via event-driven workflows
+- **Realtime voice + AI systems**: STT → LLM → TTS pipelines, WebSockets, low-latency UX
+- **High-pressure shipping**: built & shipped a university enrollment system in **2 days** (urgent deadline)
+- **Proven scale**: handled **~2K concurrent users** and **~500K requests/day** in production-like usage
+- **Automation impact**: delivered solutions that reduced manual ops by **~70%**
+- Started programming at **15** — shipped games/servers (Lua) long before university
 
 ---
 
-## 🏗️ What I build
+## 👋 About
 
-Production systems **end-to-end**: APIs, realtime apps, mobile, databases, VoIP/voice, performance tuning, and third-party integrations. I care about latency, reliability, security, and architecture that stays maintainable under pressure.
+- Final-term **Computer Science** student — **Alexandria University (Software Industry & Multimedia)**
+- I build production systems **end-to-end**: backend + frontend + realtime + infra + integrations
+- I care about **latency, reliability, security, and clean architecture** that doesn’t fall apart under load
 
-### Selected proof-of-work
+---
 
-| System | Outcome / Scale | Stack |
+## 🔥 What I’m building now
+
+- Low-latency **voice + web products** (streaming, realtime dashboards, event-driven workflows)
+- **Production reliability** patterns: observability, retries, idempotency, backpressure, caching
+- “Less human toil” automation: approvals, payments, reporting, ops tooling
+
+---
+
+## 🧩 Proof of work (selected)
+
+| System | Outcome / Scale | Core Stack |
 |---|---|---|
-| University enrollment platform | ~2K concurrent users · ~500K requests/day | Flutter · Firebase · Cloud Functions |
-| Custom dialer + CRM (predictive & parallel) | ~10K calls/day | TypeScript · Node · Next.js · Postgres · VoIP |
-| Realtime AI voice agent | ~300ms E2E (STT → LLM → TTS) | WebSockets · LLM APIs · Streaming TTS |
-| Ops automation + dashboards | ~70% fewer manual ops | Stripe · Firebase · Realtime sync |
+| University enrollment platform | ~2K concurrent users · ~500K requests/day · shipped in 48h | Flutter · Firebase · Cloud Functions |
+| GPS attendance system | radius verification → automatic attendance + professor reports | Mobile · Location · Realtime DB |
+| Custom dialer + CRM | predictive/parallel dialing · routing · analytics · ~10K calls/day | TS · Node · Next.js · Postgres · VoIP |
+| AI voice calling agent | human-like calls · ~300ms response time target | STT · LLM · Streaming TTS · WebSockets |
+| E-commerce + admin ops | automated approvals + tracking · ~70% less manual work | Payments · Admin dashboard · Realtime |
+
+---
+
+## 📌 Featured projects (from my pinned repos)
+
+> Each pinned repo has a full README with architecture notes, tradeoffs, and lessons learned.
+
+- **Dialer + CRM Platform** — predictive/parallel dialing engine, lead state machine, routing, live analytics  
+  `TypeScript · Node · Next.js · Postgres · VoIP`
+
+- **Realtime AI Voice Agent** — low-latency voice pipeline with structured data capture + call automation  
+  `STT · LLM · TTS · WebSockets`
+
+- **High-Scale Enrollment Platform** — Firebase scaling patterns, peak-load handling, realtime sync  
+  `Flutter · Firebase · Cloud Functions`
+
+- **Ops Automation / Dashboards** — payments, approval workflows, realtime status boards  
+  `Stripe · Firebase · Admin UX`
 
 ---
 
 ## 🧰 Tech stack
 
-**Languages**  
+**Core (I use often)**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-**Frontend / Mobile**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Backend / Infrastructure**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Also strong with**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 <details>
-  <summary><b>Also familiar with</b></summary>
+  <summary><b>More tools & languages I’ve used</b></summary>
   <br/>
-  C#, PHP, Angular, Lua — and I pick up new toolchains fast when the project calls for it.
+  C, C++, Java, Lua, C#, PHP, Angular, SQL/NoSQL, HTML/CSS, Bash/PowerShell — plus VoIP integrations and realtime systems tooling.
 </details>
 
 ---
 
 ## 🧠 How I work
 
-- **Requirements → milestones → feedback loops** — tight scope, iterative delivery
-- **Measure first, optimize second** — profiling, indexing, and load tests before deep tuning
-- **Reliability by default** — rate limits, retries, idempotency, structured logs, alerts
+- **Tight loops**: requirements → milestone plan → ship → feedback → iterate
+- **Performance discipline**: measure first (profiling, tracing, load tests), optimize second
+- **Reliability by default**: rate limits, retries, idempotency, structured logging, alerts
+- **No chaos in realtime**: backpressure, queue control, race-condition-safe flows, clean state machines
 
 ---
 
-## 📌 Featured projects
+## 📚 A few builds I’m proud of (details)
 
-Check my pinned repos — each includes architecture notes, tradeoffs, and lessons learned.
+<details>
+  <summary><b>University systems</b></summary>
+  <br/>
 
-- **Dialer + CRM Platform** — predictive/parallel dialing engine, routing, lead state machine, live analytics  
-  `TypeScript · Node · Next.js · Postgres · VoIP`
+  - **GPS attendance**: checks if students are within a radius of the hall → auto attendance → professor report.
+  - **Enrollment system** (Flutter + Firebase): automated enrollment into courses/labs; fair allocation influenced by GPA; exports instructor-ready Excel.
+  - **Full university portal concept**: attendance, warnings, results, billing, instructor tools — declined due to hosting budget constraints.
+</details>
 
-- **Realtime AI Voice Agent** — sub-300ms voice pipeline with structured data capture + call automation  
-  `STT · LLM · TTS · WebSockets`
+<details>
+  <summary><b>Business automation systems</b></summary>
+  <br/>
 
-- **High-Scale Enrollment Platform** — Firebase scaling patterns, peak-load handling, realtime sync  
-  `Flutter · Firebase · Cloud Functions`
+  - **E-commerce + admin ops**: payment flow + approvals + tracking; realtime dashboards; cut manual work by ~70%.
+  - **Salon reservations**: dynamic admin dashboard (staff schedules/holidays/locations), SMS + payments, QR check-in, realtime analytics, multilingual voice booking.
+  - **Cold outreach tooling**: campaign automation + warmup + templates to improve deliverability.
+</details>
 
-- **Ops Automation / Dashboards** — payments, approvals, realtime status boards  
-  `Stripe · Firebase · Admin UX`
+<details>
+  <summary><b>AI / accessibility / experiments</b></summary>
+  <br/>
 
-- **Scheduling & Reservation System** — multi-staff scheduling, verification flows, analytics  
-  `Full-stack · Realtime`
+  - **Dyslexia support app**: scan image/PDF → extract text → accessibility-first reading (font/spacing/colors/TTS), Arabic-first with English support.
+  - **Study assistant**: summaries, mindmaps, flashcards, quizzes + realtime group chat; tasks/reminders/forums/leaderboards; realtime 1v1 quiz mode with race-condition-safe matchmaking.
+  - **RSA implementation**: built encryption/decryption implementation from scratch during university.
+</details>
 
 ---
 
@@ -139,11 +177,12 @@ Check my pinned repos — each includes architecture notes, tradeoffs, and lesso
 
 ## 🤝 Open to
 
-- Full-time roles (remote / relocation; visa sponsorship needed) — **Alexandria, Egypt**
-- Collaboration on **realtime systems, voice/VoIP, and performance-critical tools**
-- Reviewing or contributing to interesting open-source projects
+- **Software Engineer (Full-stack / Systems / Realtime)** roles — remote or relocation (visa sponsorship needed)
+- Collaboration on **voice/VoIP**, **realtime systems**, and **performance-critical** products
+- Contributing to interesting open-source projects
 
-**Email:** ziadabdelrazekk@gmail.com
+**Email:** ziadabdelrazekk@gmail.com  
+**Location:** Alexandria, Egypt
 
 ---
 
