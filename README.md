@@ -226,7 +226,7 @@ Requirements → Milestones → Ship → Measure → Iterate
 ## 🤝 Open To
 
 - **Full-time roles** — Software Engineer (Full-stack · Systems · Realtime) — **remote or relocation** *(visa sponsorship needed)*
-- **Collaboration** on voice/VoIP, realtime systems, AI pipelines, and performance-critical products
+- **Collaboration** on realtime systems, AI pipelines, and performance-critical products
 - **Open source** — contributing to, reviewing, or building interesting projects
 
 <br/>
