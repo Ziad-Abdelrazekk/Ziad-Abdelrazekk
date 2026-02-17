@@ -122,15 +122,14 @@ C#, PHP, Angular, Lua — and I pick up new toolchains fast when the project cal
 
 ## 📊 GitHub stats
 
-<div align="center">
+  <a href="https://github.com/Ziad-Abdelrazekk">
+    <img height="165" alt="GitHub Stats"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ziad-Abdelrazekk&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=86400" />
+    <img height="165" alt="Top Languages"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ziad-Abdelrazekk&layout=compact&hide_border=true&langs_count=8&card_width=320&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
+  </a>
 
-<a href="https://github.com/Ziad-Abdelrazekk">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ziad-Abdelrazekk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ziad-Abdelrazekk&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-</a>
-
-<br/>
+  <br/>
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Ziad-Abdelrazekk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
