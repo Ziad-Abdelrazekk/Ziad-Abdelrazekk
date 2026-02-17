@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/Ziad-Abdelrazekk/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://YOUR-PORTFOLIO.dev">
+  <a href="https://Ziad-Abdelrazekk.dev">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/Ziad-Abdelrazekk">
@@ -132,7 +132,7 @@ C#, PHP, Angular, Lua — and I pick up new toolchains fast when the project cal
 <br/>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=Ziad-Abdelrazekk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </a>
 
 </div>
