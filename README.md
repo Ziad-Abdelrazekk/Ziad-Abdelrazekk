@@ -39,11 +39,15 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/~500K-requests%2Fday-58A6FF?style=for-the-badge&labelColor=0d1117" alt="500K requests/day"/>
-<img src="https://img.shields.io/badge/~300ms-E2E_voice_latency-58A6FF?style=for-the-badge&labelColor=0d1117" alt="300ms latency"/>
-<img src="https://img.shields.io/badge/~2K-concurrent_users-58A6FF?style=for-the-badge&labelColor=0d1117" alt="2K concurrent"/>
-<img src="https://img.shields.io/badge/~10K-calls%2Fday-58A6FF?style=for-the-badge&labelColor=0d1117" alt="10K calls/day"/>
-<img src="https://img.shields.io/badge/48h-zero_to_live-58A6FF?style=for-the-badge&labelColor=0d1117" alt="48h ship"/>
+<table>
+<tr>
+<td align="center"><h3>🚀 ~500K</h3><sub>requests/day</sub></td>
+<td align="center"><h3>⚡ ~300ms</h3><sub>E2E voice latency</sub></td>
+<td align="center"><h3>👥 ~2K</h3><sub>concurrent users</sub></td>
+<td align="center"><h3>📞 ~10K</h3><sub>calls/day</sub></td>
+<td align="center"><h3>⏱️ 48h</h3><sub>zero to live</sub></td>
+</tr>
+</table>
 
 </div>
 
