@@ -8,12 +8,6 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  I don't just write code. I ship systems that hold under fire.   ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 # Ziad Abdelrazek
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Full-Stack+%26+Systems+Engineer;Realtime+Voice+%E2%80%A2+VoIP+%E2%80%A2+AI+Automation;~300ms+STT+%E2%80%94+LLM+%E2%80%94+TTS+pipelines+in+production;~500K+requests%2Fday+%C2%B7+~2K+concurrent+users+handled;Shipped+a+full+enrollment+system+in+48+hours.)](https://git.io/typing-svg)
