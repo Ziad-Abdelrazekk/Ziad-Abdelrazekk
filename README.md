@@ -125,8 +125,8 @@ C#, PHP, Angular, Lua — and I pick up new toolchains fast when the project cal
 <div align="center">
 
 <a href="https://github.com/Ziad-Abdelrazekk">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ziad-Abdelrazekk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Abdelrazekk&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ziad-Abdelrazekk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ziad-Abdelrazekk&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 </a>
 
 <br/>
