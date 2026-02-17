@@ -131,6 +131,9 @@ C#, PHP, Angular, Lua — and I pick up new toolchains fast when the project cal
   </a>
 
   <br/>
+  <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Ziad-Abdelrazekk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</a>
 </div>
 
 </div>
