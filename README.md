@@ -1,18 +1,10 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║  GitHub Profile README — Ziad Abdelrazek  · last updated 2026    ║
-     ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d2137,60:0f3460,100:16213e&height=140&section=header&animation=fadeIn&fontColor=58a6ff&fontSize=0" width="100%"/>
 
-<br/>
-
 # Ziad Abdelrazek
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Full-Stack+%26+Systems+Engineer;Realtime+Voice+%E2%80%A2+VoIP+%E2%80%A2+AI+Automation;Sub-300ms+STT+%E2%86%92+LLM+%E2%86%92+TTS+in+Production;~500K+req%2Fday+%C2%B7+~2K+concurrent+%C2%B7+Ships+in+48h)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Systems+Engineer;Realtime+Voice+%C2%B7+VoIP+%C2%B7+AI+Automation;Sub-300ms+STT+%E2%86%92+LLM+%E2%86%92+TTS+in+Production)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:ziadabdelrazekk@gmail.com">
@@ -35,107 +27,89 @@
 
 ---
 
-## ⚡ The Numbers That Matter
+## About
 
-<div align="center">
+Final-year **Computer Science** student at **Alexandria University** (Software Industry & Multimedia track), building and shipping production systems while completing my degree.
 
-| 🚀 `~500K` requests/day | ⚡ `~300ms` E2E voice latency | 👥 `~2K` concurrent users | 📞 `~10K` calls/day | ⏱️ `48h` to ship a full system |
-|:---:|:---:|:---:|:---:|:---:|
-| Handled in production | STT → LLM → TTS pipeline | Peak load, sustained | Predictive dialer throughput | From zero to live |
+My focus is on systems that are fast, reliable, and maintainable under real load — end-to-end ownership across backend APIs, realtime infrastructure, mobile, VoIP pipelines, and database design. I care about latency, observability, and architectures that don't require heroics to operate.
 
-</div>
+Currently exploring: low-latency voice pipelines, event-driven systems, and automation tooling that eliminates manual operational work.
 
 ---
 
-## 👋 Who I Am
+## Production Work
 
-Final-term **Computer Science** student at **Alexandria University** (Software Industry & Multimedia track) — building production systems well before graduation.
-
-I started programming at **15** — shipped games and multiplayer servers in Lua long before university touched me. That self-taught instinct never left: I go end-to-end on everything, and I care deeply about **latency, reliability, security, and architecture that doesn't collapse under real load.**
-
-I build and own the whole stack: backend APIs, realtime systems, mobile apps, VoIP pipelines, databases, infra, and integrations. Not breadth for its own sake — just whatever the system needs to ship and survive production.
-
----
-
-## 🔥 What I'm Shipping Now
-
-- **Low-latency voice + web products** — streaming pipelines, WebSocket-driven dashboards, event-driven workflows
-- **Production reliability patterns** — observability, retries, idempotency, backpressure, caching, alerting
-- **"Less human toil" automation** — approvals, payments, reporting, and ops tooling that eliminates manual work
+| System | Scale & Outcome | Stack |
+|--------|-----------------|-------|
+| University enrollment platform | ~2K concurrent users · ~500K req/day · shipped under a 48-hour deadline | Flutter · Firebase · Cloud Functions |
+| GPS-based attendance system | Location-verified auto-attendance with instructor Excel export | Mobile · Location API · Realtime DB |
+| Dialer + CRM platform | Predictive/parallel dialing · intelligent routing · live analytics · ~10K calls/day | TypeScript · Node.js · Next.js · PostgreSQL · VoIP |
+| AI voice calling agent | Human-like outbound calls · ~300ms E2E latency target · structured data capture | STT · LLM · Streaming TTS · WebSockets |
+| E-commerce + ops automation | Automated approvals + order tracking · reduced manual ops by ~70% | Stripe · Realtime dashboards |
+| Salon reservation platform | Multi-staff scheduling · SMS + payments · QR check-in · multilingual voice booking | Full-stack · Realtime · Multilingual |
 
 ---
 
-## 🏗️ Proof of Work
-
-> Real systems. Real numbers. Real tradeoffs.
-
-| System | Outcome & Scale | Core Stack |
-|---|---|---|
-| 🎓 University enrollment platform | ~2K concurrent users · ~500K req/day · **shipped in 48 hours** | Flutter · Firebase · Cloud Functions |
-| 📍 GPS attendance system | Radius verification → auto attendance → professor Excel reports | Mobile · Location API · Realtime DB |
-| 📞 Custom dialer + CRM | Predictive/parallel dialing · routing · live analytics · ~10K calls/day | TypeScript · Node · Next.js · Postgres · VoIP |
-| 🤖 AI voice calling agent | Human-like calls · ~300ms response target · structured data capture | STT · LLM · Streaming TTS · WebSockets |
-| 🛒 E-commerce + admin ops | Automated approvals + tracking · **~70% fewer manual ops** | Stripe · Realtime dashboards · Admin UX |
-| 💇 Salon reservation platform | Multi-staff scheduling · SMS + payments · QR check-in · voice booking | Full-stack · Realtime · Multilingual |
-
----
-
-## 📌 Featured Projects
-
-> Every pinned repo includes architecture notes, tradeoffs, and lessons learned.
+## Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 Dialer + CRM Platform
-Predictive and parallel dialing engine, intelligent routing, lead state machine, live call analytics.
+**Dialer + CRM Platform**
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,postgres&theme=dark" height="30"/>
+Predictive and parallel dialing engine with intelligent routing, lead state machine, and live call analytics dashboard.
 
-</td>
-<td width="50%" valign="top">
-
-### 🔷 Realtime AI Voice Agent
-Sub-300ms voice pipeline: STT → LLM → TTS over WebSockets. Structured data capture + full call automation.
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" height="30"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔷 High-Scale Enrollment Platform
-GPA-aware fair course allocation, peak-load Firebase patterns, realtime sync, Excel export for faculty.
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="30"/>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,postgres&theme=dark" height="28"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔷 Ops Automation & Dashboards
-Payment flows, multi-step approval workflows, realtime status boards with zero polling.
+**Realtime AI Voice Agent**
 
-<img src="https://skillicons.dev/icons?i=react,firebase,nodejs&theme=dark" height="30"/>
+Sub-300ms voice pipeline: STT → LLM → TTS over WebSockets with structured data capture and full call automation.
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" height="28"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 Study Assistant Platform
-Summaries, mindmaps, flashcards, quizzes, group chat, leaderboards, and **race-condition-safe 1v1 quiz matchmaking**.
+**High-Scale Enrollment Platform**
 
-<img src="https://skillicons.dev/icons?i=react,firebase,nodejs&theme=dark" height="30"/>
+GPA-weighted course allocation with peak-load Firebase patterns, realtime sync, and faculty-ready Excel exports.
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="28"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔷 Dyslexia Support App
-Scan image/PDF → extract text → accessibility-first reading (custom fonts, spacing, colors, TTS). Arabic-first.
+**Ops Automation & Dashboards**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="30"/>
+Multi-step approval workflows, payment flows, and realtime status boards with zero polling.
+
+<img src="https://skillicons.dev/icons?i=react,firebase,nodejs&theme=dark" height="28"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Study Assistant Platform**
+
+AI summaries, mindmaps, flashcards, quizzes, group chat, leaderboards, and race-condition-safe 1v1 quiz matchmaking.
+
+<img src="https://skillicons.dev/icons?i=react,firebase,nodejs&theme=dark" height="28"/>
+
+</td>
+<td width="50%" valign="top">
+
+**Dyslexia Support App**
+
+Scan image/PDF → extract text → accessibility-first reading experience with custom fonts, spacing, color themes, and TTS. Arabic-first.
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="28"/>
 
 </td>
 </tr>
@@ -143,7 +117,7 @@ Scan image/PDF → extract text → accessibility-first reading (custom fonts, s
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -162,68 +136,28 @@ Scan image/PDF → extract text → accessibility-first reading (custom fonts, s
 </div>
 
 <details>
-<summary><b>↳ Also worked with</b></summary>
+<summary><b>Also worked with</b></summary>
 <br/>
 
-C++, C#, PHP, Lua, Angular, Bash/PowerShell, HTML/CSS — plus VoIP integrations, OCR pipelines, and realtime systems tooling. I pick up new toolchains fast when the project demands it.
+C++, C#, PHP, Lua, Angular, Bash/PowerShell — plus VoIP integrations, OCR pipelines, and realtime systems tooling.
 
 </details>
 
 ---
 
-## 🧠 How I Work
+## Engineering Principles
 
-```
-Requirements → Milestones → Ship → Measure → Iterate
-     ↑_______________________________________|
-```
+**Measure before optimizing.** Profiling, distributed tracing, and load testing precede any performance work. Guessing is expensive.
 
-**Performance discipline**: Measure first — profiling, distributed tracing, load tests. Optimize second. Never guess.
+**Reliability by default.** Rate limiting, retries with exponential backoff, idempotency keys, structured logging, and alerting are defaults — not afterthoughts.
 
-**Reliability by default**: Rate limits, retries with backoff, idempotency keys, structured logging, alerts before users notice.
+**Realtime systems require discipline.** Backpressure, queue control, race-condition-safe flows, and explicit state machines. Realtime systems surface subtle bugs under load.
 
-**No chaos in realtime**: Backpressure, queue control, race-condition-safe flows, clean state machines. Realtime systems lie when you're not careful.
-
-**Tight scope, fast loops**: I scope hard, ship fast, and collect real feedback. Perfect is the enemy of shipped.
+**Scope tight, ship fast, iterate.** Real feedback from real users is more valuable than speculative completeness.
 
 ---
 
-## 🔬 A Few Builds I'm Proud Of
-
-<details>
-<summary><b>↳ University systems</b></summary>
-<br/>
-
-- **GPS attendance**: checks if students are within a radius of the lecture hall → auto attendance → professor Excel report. Zero manual entry.
-- **Enrollment system** (Flutter + Firebase): automated enrollment into courses and labs; fair allocation weighted by GPA; exports instructor-ready spreadsheets. Built and shipped in **48 hours** under a hard deadline.
-- **Full university portal concept**: attendance, academic warnings, results, billing, and instructor tools — declined due to hosting budget constraints, but the architecture was complete.
-
-</details>
-
-<details>
-<summary><b>↳ Business automation</b></summary>
-<br/>
-
-- **E-commerce + admin ops**: full payment flow + approval pipeline + order tracking; realtime dashboards; cut manual operational work by ~70%.
-- **Salon reservations**: dynamic admin dashboard (staff schedules, holidays, multi-location), SMS + payments, QR check-in, realtime analytics, multilingual voice booking.
-- **Cold outreach tooling**: campaign automation + warmup sequences + template management to maximize deliverability.
-
-</details>
-
-<details>
-<summary><b>↳ AI / accessibility / experiments</b></summary>
-<br/>
-
-- **Dyslexia support app**: scan image or PDF → extract text → accessibility-first reading experience (custom font, spacing, color themes, TTS). Arabic-first with English support.
-- **Study assistant**: AI summaries, mindmaps, flashcards, quizzes + realtime group chat; tasks/reminders/forums/leaderboards; realtime 1v1 quiz mode with **race-condition-safe matchmaking**.
-- **RSA implementation**: built full encryption/decryption from scratch — key generation, padding, the works.
-- **Game servers (Lua, age 15)**: first taste of realtime multiplayer. Never stopped shipping since.
-
-</details>
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -250,19 +184,15 @@ Requirements → Milestones → Ship → Measure → Iterate
 
 ---
 
-## 🤝 Open To
+## Open To
 
-- **Full-time roles** — Software Engineer (Full-stack · Systems · Realtime) — **remote or relocation** *(visa sponsorship needed)*
+- **Full-time roles** — Software Engineer (Full-Stack · Systems · Realtime) — remote or relocation *(visa sponsorship required)*
 - **Collaboration** on realtime systems, AI pipelines, and performance-critical products
-- **Open source** — contributing to, reviewing, or building interesting projects
-
-<br/>
+- **Open source** contributions, reviews, and interesting side projects
 
 <div align="center">
 
-**📬 ziadabdelrazekk@gmail.com — Alexandria, Egypt**
-
-*If you're building something that needs to be fast, reliable, and real — let's talk.*
+**ziadabdelrazekk@gmail.com · Alexandria, Egypt**
 
 </div>
 
@@ -271,5 +201,3 @@ Requirements → Milestones → Ship → Measure → Iterate
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0a0f1e&height=90&section=footer" width="100%"/>
 </div>
-
-<!-- Last updated: 2026-02-17 -->
