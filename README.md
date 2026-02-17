@@ -245,11 +245,6 @@ Requirements → Milestones → Ship → Measure → Iterate
 
   <br/>
 
-  <img alt="GitHub Trophies"
-    src="https://github-profile-trophy.vercel.app/?username=Ziad-Abdelrazekk&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6"/>
-
-  <br/>
-
   <img alt="Activity Graph"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Ziad-Abdelrazekk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true"/>
 
