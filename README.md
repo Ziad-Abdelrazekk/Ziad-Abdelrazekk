@@ -39,9 +39,9 @@
 
 <div align="center">
 
-| 🚀 **~500K** | ⚡ **~300ms** | 👥 **~2K** | 📞 **~10K** | ⏱️ **48h** |
+| 🚀 `~500K` requests/day | ⚡ `~300ms` E2E voice latency | 👥 `~2K` concurrent users | 📞 `~10K` calls/day | ⏱️ `48h` to ship a full system |
 |:---:|:---:|:---:|:---:|:---:|
-| requests / day | E2E voice latency | concurrent users | calls / day | zero → live |
+| Handled in production | STT → LLM → TTS pipeline | Peak load, sustained | Predictive dialer throughput | From zero to live |
 
 </div>
 
