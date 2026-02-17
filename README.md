@@ -39,15 +39,9 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><h3>🚀 ~500K</h3><sub>requests/day</sub></td>
-<td align="center"><h3>⚡ ~300ms</h3><sub>E2E voice latency</sub></td>
-<td align="center"><h3>👥 ~2K</h3><sub>concurrent users</sub></td>
-<td align="center"><h3>📞 ~10K</h3><sub>calls/day</sub></td>
-<td align="center"><h3>⏱️ 48h</h3><sub>zero to live</sub></td>
-</tr>
-</table>
+| 🚀 **~500K** | ⚡ **~300ms** | 👥 **~2K** | 📞 **~10K** | ⏱️ **48h** |
+|:---:|:---:|:---:|:---:|:---:|
+| requests / day | E2E voice latency | concurrent users | calls / day | zero → live |
 
 </div>
 
