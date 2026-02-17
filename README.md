@@ -1,5 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║  GitHub Profile README — Ziad Abdelrazek  · last updated 2026   ║
+     ║  GitHub Profile README — Ziad Abdelrazek  · last updated 2026    ║
      ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 # Ziad Abdelrazek
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Full-Stack+%26+Systems+Engineer;Realtime+Voice+%E2%80%A2+VoIP+%E2%80%A2+AI+Automation;~300ms+STT+%E2%80%94+LLM+%E2%80%94+TTS+pipelines+in+production;~500K+requests%2Fday+%C2%B7+~2K+concurrent+users+handled;Shipped+a+full+enrollment+system+in+48+hours.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Full-Stack+%26+Systems+Engineer;Realtime+Voice+%E2%80%A2+VoIP+%E2%80%A2+AI+Automation;Sub-300ms+STT+%E2%86%92+LLM+%E2%86%92+TTS+in+Production;~500K+req%2Fday+%C2%B7+~2K+concurrent+%C2%B7+Ships+in+48h)](https://git.io/typing-svg)
 
 <br/>
 
@@ -39,9 +39,11 @@
 
 <div align="center">
 
-| 🚀 `~500K` requests/day | ⚡ `~300ms` E2E voice latency | 👥 `~2K` concurrent users | 📞 `~10K` calls/day | ⏱️ `48h` to ship an enrollment system |
-|:---:|:---:|:---:|:---:|:---:|
-| Handled in production | STT → LLM → TTS | Peak load, sustained | Predictive dialer | From zero to live |
+<img src="https://img.shields.io/badge/~500K-requests%2Fday-58A6FF?style=for-the-badge&labelColor=0d1117" alt="500K requests/day"/>
+<img src="https://img.shields.io/badge/~300ms-E2E_voice_latency-58A6FF?style=for-the-badge&labelColor=0d1117" alt="300ms latency"/>
+<img src="https://img.shields.io/badge/~2K-concurrent_users-58A6FF?style=for-the-badge&labelColor=0d1117" alt="2K concurrent"/>
+<img src="https://img.shields.io/badge/~10K-calls%2Fday-58A6FF?style=for-the-badge&labelColor=0d1117" alt="10K calls/day"/>
+<img src="https://img.shields.io/badge/48h-zero_to_live-58A6FF?style=for-the-badge&labelColor=0d1117" alt="48h ship"/>
 
 </div>
 
@@ -84,60 +86,82 @@ I build and own the whole stack: backend APIs, realtime systems, mobile apps, Vo
 
 > Every pinned repo includes architecture notes, tradeoffs, and lessons learned.
 
-**🔷 Dialer + CRM Platform**  
-Predictive and parallel dialing engine, intelligent routing, lead state machine, live call analytics.  
-`TypeScript · Node.js · Next.js · PostgreSQL · VoIP`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🔷 Realtime AI Voice Agent**  
-Sub-300ms voice pipeline: STT → LLM → TTS over WebSockets. Structured data capture + full call automation.  
-`STT · LLM APIs · Streaming TTS · WebSockets`
+### 🔷 Dialer + CRM Platform
+Predictive and parallel dialing engine, intelligent routing, lead state machine, live call analytics.
 
-**🔷 High-Scale Enrollment Platform**  
-GPA-aware fair course allocation, peak-load Firebase patterns, realtime sync, Excel export for faculty.  
-`Flutter · Firebase · Cloud Functions`
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,postgres&theme=dark" height="30"/>
 
-**🔷 Ops Automation & Dashboards**  
-Payment flows, multi-step approval workflows, realtime status boards with zero polling.  
-`Stripe · Firebase · Admin UX`
+</td>
+<td width="50%" valign="top">
 
-**🔷 Study Assistant Platform**  
-Summaries, mindmaps, flashcards, quizzes, group chat, leaderboards, and **race-condition-safe 1v1 quiz matchmaking**.  
-`Full-stack · Realtime · Event-driven`
+### 🔷 Realtime AI Voice Agent
+Sub-300ms voice pipeline: STT → LLM → TTS over WebSockets. Structured data capture + full call automation.
 
-**🔷 Dyslexia Support App**  
-Scan image/PDF → extract text → accessibility-first reading (custom fonts, spacing, colors, TTS). Arabic-first.  
-`OCR · TTS · Accessibility · Mobile`
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" height="30"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 High-Scale Enrollment Platform
+GPA-aware fair course allocation, peak-load Firebase patterns, realtime sync, Excel export for faculty.
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="30"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 Ops Automation & Dashboards
+Payment flows, multi-step approval workflows, realtime status boards with zero polling.
+
+<img src="https://skillicons.dev/icons?i=react,firebase,nodejs&theme=dark" height="30"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 Study Assistant Platform
+Summaries, mindmaps, flashcards, quizzes, group chat, leaderboards, and **race-condition-safe 1v1 quiz matchmaking**.
+
+<img src="https://skillicons.dev/icons?i=react,firebase,nodejs&theme=dark" height="30"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 Dyslexia Support App
+Scan image/PDF → extract text → accessibility-first reading (custom fonts, spacing, colors, TTS). Arabic-first.
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="30"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧰 Tech Stack
 
+<div align="center">
+
 **Daily Drivers**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,firebase,redis,docker&theme=dark" />
 
 **Strong With**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=go,python,flutter,tailwind,supabase,vite&theme=dark" />
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,dart,java,c&theme=dark" />
+
+</div>
 
 <details>
 <summary><b>↳ Also worked with</b></summary>
@@ -218,6 +242,16 @@ Requirements → Milestones → Ship → Measure → Iterate
     <img alt="GitHub Streak"
       src="https://streak-stats.demolab.com?user=Ziad-Abdelrazekk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </a>
+
+  <br/>
+
+  <img alt="GitHub Trophies"
+    src="https://github-profile-trophy.vercel.app/?username=Ziad-Abdelrazekk&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6"/>
+
+  <br/>
+
+  <img alt="Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ziad-Abdelrazekk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true"/>
 
 </div>
 
