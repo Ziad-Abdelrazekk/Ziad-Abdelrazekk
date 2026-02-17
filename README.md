@@ -186,7 +186,7 @@ C++, C#, PHP, Lua, Angular, Bash/PowerShell — plus VoIP integrations, OCR pipe
 
 ## Open To
 
-- **Full-time roles** — Software Engineer (Full-Stack · Systems · Realtime) — remote or relocation *(visa sponsorship required)*
+- **Full-time roles** — Software Engineer (Full-Stack · Systems · Realtime) — remote or relocation
 - **Collaboration** on realtime systems, AI pipelines, and performance-critical products
 - **Open source** contributions, reviews, and interesting side projects
 
