@@ -244,9 +244,13 @@ Requirements → Milestones → Ship → Measure → Iterate
 
   <br/>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ziad-Abdelrazekk&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ziad-Abdelrazekk&theme=github_dark" width="100%" alt="Profile Summary"/>
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ziad-Abdelrazekk&theme=github_dark" height="160" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ziad-Abdelrazekk&theme=github_dark" height="160" alt="Most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ziad-Abdelrazekk&theme=github_dark&utcOffset=2" height="160" alt="Productive time"/>
 
 </div>
 
