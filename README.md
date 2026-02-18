@@ -68,7 +68,7 @@ Full stack ownership: backend APIs, realtime infrastructure, mobile, VoIP pipeli
 | <img src="https://img.shields.io/badge/VoIP-0d2137?style=flat-square&logoColor=white&logo=twilio"/> | Dialer + CRM platform | Predictive/parallel dialing · intelligent routing · ~10K calls/day | TypeScript · Node.js · Next.js · PostgreSQL |
 | <img src="https://img.shields.io/badge/AI-0f3460?style=flat-square&logoColor=white&logo=openai"/> | AI voice calling agent | Human-like outbound calls · ~300ms E2E · structured data capture | STT · LLM · Streaming TTS · WebSockets |
 | <img src="https://img.shields.io/badge/Commerce-16213e?style=flat-square&logoColor=white&logo=stripe"/> | E-commerce + ops automation | Automated approvals + tracking · **~70% fewer manual ops** | Stripe · Realtime dashboards |
-| <img src="https://img.shields.io/badge/SaaS-0d2137?style=flat-square&logoColor=white&logo=calendar"/> | Salon reservation platform | Multi-staff · SMS + payments · QR check-in · voice booking | Full-stack · Realtime · Multilingual |
+| <img src="https://img.shields.io/badge/SaaS-0d2137?style=flat-square&logoColor=white&logo=googlemeet"/> | Salon reservation platform | Multi-staff · SMS + payments · QR check-in · voice booking | Full-stack · Realtime · Multilingual |
 
 ---
 
