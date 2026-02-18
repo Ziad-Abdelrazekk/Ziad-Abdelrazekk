@@ -1,10 +1,18 @@
+<!-- ╔══════════════════════════════════════════════════════════════════╗
+     ║  GitHub Profile README — Ziad Abdelrazek  · last updated 2026    ║
+     ╚══════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d2137,60:0f3460,100:16213e&height=140&section=header&animation=fadeIn&fontColor=58a6ff&fontSize=0" width="100%"/>
 
+<br/>
+
 # Ziad Abdelrazek
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Systems+Engineer;Realtime+Voice+%C2%B7+VoIP+%C2%B7+AI+Automation;Sub-300ms+STT+%E2%86%92+LLM+%E2%86%92+TTS+in+Production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Full-Stack+%26+Systems+Engineer;Realtime+Voice+%E2%80%A2+VoIP+%E2%80%A2+AI+Automation;Sub-300ms+STT+%E2%86%92+LLM+%E2%86%92+TTS+in+Production;%7E500K+req%2Fday+%C2%B7+%7E2K+concurrent+%C2%B7+Ships+in+48h)](https://git.io/typing-svg)
+
+<br/>
 
 <p>
   <a href="mailto:ziadabdelrazekk@gmail.com">
@@ -27,26 +35,40 @@
 
 ---
 
+## The Numbers
+
+<div align="center">
+
+| `~500K` req/day | `~300ms` E2E voice | `~2K` concurrent users | `~10K` calls/day | `48h` zero-to-live |
+|:---:|:---:|:---:|:---:|:---:|
+| Handled in production | STT → LLM → TTS pipeline | Peak load, sustained | Predictive dialer throughput | From spec to deployed |
+
+</div>
+
+---
+
 ## About
 
-Final-year **Computer Science** student at **Alexandria University** (Software Industry & Multimedia track), building and shipping production systems while completing my degree.
+Final-term **Computer Science** student at **Alexandria University** (Software Industry & Multimedia track) — building production systems well before graduation.
 
-My focus is on systems that are fast, reliable, and maintainable under real load — end-to-end ownership across backend APIs, realtime infrastructure, mobile, VoIP pipelines, and database design. I care about latency, observability, and architectures that don't require heroics to operate.
+I started programming at **15**, shipping games and multiplayer servers in Lua long before university. That self-taught instinct never left: I go end-to-end on everything and care deeply about **latency, reliability, security, and architecture that holds under real load.**
 
-Currently exploring: low-latency voice pipelines, event-driven systems, and automation tooling that eliminates manual operational work.
+Full stack ownership: backend APIs, realtime infrastructure, mobile, VoIP pipelines, database design, and integrations — whatever the system needs to ship and survive production.
+
+**Currently focused on:** low-latency voice pipelines · event-driven systems · automation tooling that eliminates manual operational work.
 
 ---
 
 ## Production Work
 
-| System | Scale & Outcome | Stack |
-|--------|-----------------|-------|
-| University enrollment platform | ~2K concurrent users · ~500K req/day · shipped under a 48-hour deadline | Flutter · Firebase · Cloud Functions |
-| GPS-based attendance system | Location-verified auto-attendance with instructor Excel export | Mobile · Location API · Realtime DB |
-| Dialer + CRM platform | Predictive/parallel dialing · intelligent routing · live analytics · ~10K calls/day | TypeScript · Node.js · Next.js · PostgreSQL · VoIP |
-| AI voice calling agent | Human-like outbound calls · ~300ms E2E latency target · structured data capture | STT · LLM · Streaming TTS · WebSockets |
-| E-commerce + ops automation | Automated approvals + order tracking · reduced manual ops by ~70% | Stripe · Realtime dashboards |
-| Salon reservation platform | Multi-staff scheduling · SMS + payments · QR check-in · multilingual voice booking | Full-stack · Realtime · Multilingual |
+| Category | System | Scale & Outcome | Stack |
+|:---:|---|---|---|
+| <img src="https://img.shields.io/badge/Education-0f3460?style=flat-square&logoColor=white&logo=academia"/> | University enrollment platform | ~2K concurrent · ~500K req/day · **48h deadline** | Flutter · Firebase · Cloud Functions |
+| <img src="https://img.shields.io/badge/Mobile-16213e?style=flat-square&logoColor=white&logo=googlemaps"/> | GPS-based attendance system | Radius verification → auto-attendance → Excel export | Mobile · Location API · Realtime DB |
+| <img src="https://img.shields.io/badge/VoIP-0d2137?style=flat-square&logoColor=white&logo=twilio"/> | Dialer + CRM platform | Predictive/parallel dialing · intelligent routing · ~10K calls/day | TypeScript · Node.js · Next.js · PostgreSQL |
+| <img src="https://img.shields.io/badge/AI-0f3460?style=flat-square&logoColor=white&logo=openai"/> | AI voice calling agent | Human-like outbound calls · ~300ms E2E · structured data capture | STT · LLM · Streaming TTS · WebSockets |
+| <img src="https://img.shields.io/badge/Commerce-16213e?style=flat-square&logoColor=white&logo=stripe"/> | E-commerce + ops automation | Automated approvals + tracking · **~70% fewer manual ops** | Stripe · Realtime dashboards |
+| <img src="https://img.shields.io/badge/SaaS-0d2137?style=flat-square&logoColor=white&logo=calendar"/> | Salon reservation platform | Multi-staff · SMS + payments · QR check-in · voice booking | Full-stack · Realtime · Multilingual |
 
 ---
 
@@ -58,7 +80,7 @@ Currently exploring: low-latency voice pipelines, event-driven systems, and auto
 
 **Dialer + CRM Platform**
 
-Predictive and parallel dialing engine with intelligent routing, lead state machine, and live call analytics dashboard.
+Predictive and parallel dialing engine with intelligent routing, lead state machine, and live call analytics.
 
 <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,postgres&theme=dark" height="28"/>
 
@@ -67,7 +89,7 @@ Predictive and parallel dialing engine with intelligent routing, lead state mach
 
 **Realtime AI Voice Agent**
 
-Sub-300ms voice pipeline: STT → LLM → TTS over WebSockets with structured data capture and full call automation.
+Sub-300ms voice pipeline: STT → LLM → TTS over WebSockets. Structured data capture and full call automation.
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" height="28"/>
 
@@ -78,7 +100,7 @@ Sub-300ms voice pipeline: STT → LLM → TTS over WebSockets with structured da
 
 **High-Scale Enrollment Platform**
 
-GPA-weighted course allocation with peak-load Firebase patterns, realtime sync, and faculty-ready Excel exports.
+GPA-weighted course allocation, peak-load Firebase patterns, realtime sync, and faculty-ready Excel exports.
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="28"/>
 
@@ -87,7 +109,7 @@ GPA-weighted course allocation with peak-load Firebase patterns, realtime sync, 
 
 **Ops Automation & Dashboards**
 
-Multi-step approval workflows, payment flows, and realtime status boards with zero polling.
+Payment flows, multi-step approval workflows, and realtime status boards with zero polling.
 
 <img src="https://skillicons.dev/icons?i=react,firebase,nodejs&theme=dark" height="28"/>
 
@@ -98,7 +120,7 @@ Multi-step approval workflows, payment flows, and realtime status boards with ze
 
 **Study Assistant Platform**
 
-AI summaries, mindmaps, flashcards, quizzes, group chat, leaderboards, and race-condition-safe 1v1 quiz matchmaking.
+AI summaries, mindmaps, flashcards, quizzes, group chat, leaderboards, and **race-condition-safe 1v1 quiz matchmaking**.
 
 <img src="https://skillicons.dev/icons?i=react,firebase,nodejs&theme=dark" height="28"/>
 
@@ -107,7 +129,7 @@ AI summaries, mindmaps, flashcards, quizzes, group chat, leaderboards, and race-
 
 **Dyslexia Support App**
 
-Scan image/PDF → extract text → accessibility-first reading experience with custom fonts, spacing, color themes, and TTS. Arabic-first.
+Scan image/PDF → extract text → accessibility-first reading (custom fonts, spacing, color themes, TTS). Arabic-first.
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="28"/>
 
@@ -136,10 +158,10 @@ Scan image/PDF → extract text → accessibility-first reading experience with 
 </div>
 
 <details>
-<summary><b>Also worked with</b></summary>
+<summary><b>↳ Also worked with</b></summary>
 <br/>
 
-C++, C#, PHP, Lua, Angular, Bash/PowerShell — plus VoIP integrations, OCR pipelines, and realtime systems tooling.
+C++, C#, PHP, Lua, Angular, Bash/PowerShell, HTML/CSS — plus VoIP integrations, OCR pipelines, and realtime systems tooling. I pick up new toolchains fast when the project demands it.
 
 </details>
 
@@ -147,13 +169,53 @@ C++, C#, PHP, Lua, Angular, Bash/PowerShell — plus VoIP integrations, OCR pipe
 
 ## Engineering Principles
 
+```
+Requirements → Milestones → Ship → Measure → Iterate
+     ↑_______________________________________|
+```
+
 **Measure before optimizing.** Profiling, distributed tracing, and load testing precede any performance work. Guessing is expensive.
 
 **Reliability by default.** Rate limiting, retries with exponential backoff, idempotency keys, structured logging, and alerting are defaults — not afterthoughts.
 
-**Realtime systems require discipline.** Backpressure, queue control, race-condition-safe flows, and explicit state machines. Realtime systems surface subtle bugs under load.
+**Realtime systems require discipline.** Backpressure, queue control, race-condition-safe flows, and explicit state machines. Realtime surfaces subtle bugs under load.
 
-**Scope tight, ship fast, iterate.** Real feedback from real users is more valuable than speculative completeness.
+**Scope tight, ship fast, iterate.** Real feedback from real users beats speculative completeness every time.
+
+---
+
+## Detailed Work
+
+<details>
+<summary><b>↳ University systems</b></summary>
+<br/>
+
+- **GPS attendance**: checks if students are within a radius of the lecture hall → auto attendance → professor Excel report. Zero manual entry.
+- **Enrollment system** (Flutter + Firebase): automated enrollment into courses and labs; fair allocation weighted by GPA; exports instructor-ready spreadsheets. Built and shipped in **48 hours** under a hard deadline.
+- **Full university portal concept**: attendance, academic warnings, results, billing, and instructor tools — declined due to hosting budget constraints, but the architecture was complete.
+
+</details>
+
+<details>
+<summary><b>↳ Business automation</b></summary>
+<br/>
+
+- **E-commerce + admin ops**: full payment flow + approval pipeline + order tracking; realtime dashboards; cut manual operational work by ~70%.
+- **Salon reservations**: dynamic admin dashboard (staff schedules, holidays, multi-location), SMS + payments, QR check-in, realtime analytics, multilingual voice booking.
+- **Cold outreach tooling**: campaign automation + warmup sequences + template management to maximize deliverability.
+
+</details>
+
+<details>
+<summary><b>↳ AI, accessibility, and experiments</b></summary>
+<br/>
+
+- **Dyslexia support app**: scan image or PDF → extract text → accessibility-first reading experience (custom font, spacing, color themes, TTS). Arabic-first with English support.
+- **Study assistant**: AI summaries, mindmaps, flashcards, quizzes + realtime group chat; tasks/reminders/forums/leaderboards; realtime 1v1 quiz mode with **race-condition-safe matchmaking**.
+- **RSA implementation**: built full encryption/decryption from scratch — key generation, padding, the works.
+- **Game servers in Lua, age 15**: first taste of realtime multiplayer. Never stopped shipping since.
+
+</details>
 
 ---
 
@@ -180,19 +242,29 @@ C++, C#, PHP, Lua, Angular, Bash/PowerShell — plus VoIP integrations, OCR pipe
   <img alt="Activity Graph"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Ziad-Abdelrazekk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true"/>
 
+  <br/>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ziad-Abdelrazekk&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
+  </a>
+
 </div>
 
 ---
 
 ## Open To
 
-- **Full-time roles** — Software Engineer (Full-Stack · Systems · Realtime) — remote or relocation
+- **Full-time roles** — Software Engineer (Full-Stack · Systems · Realtime) — remote or relocation *(visa sponsorship needed)*
 - **Collaboration** on realtime systems, AI pipelines, and performance-critical products
-- **Open source** contributions, reviews, and interesting side projects
+- **Open source** — contributing, reviewing, or building interesting projects
+
+<br/>
 
 <div align="center">
 
 **ziadabdelrazekk@gmail.com · Alexandria, Egypt**
+
+*If you're building something that needs to be fast, reliable, and real — let's talk.*
 
 </div>
 
