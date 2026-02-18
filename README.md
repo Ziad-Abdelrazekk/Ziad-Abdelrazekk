@@ -235,10 +235,6 @@ Requirements → Milestones → Ship → Measure → Iterate
 <img alt="GitHub Streak"
   src="https://streak-stats.demolab.com?user=Ziad-Abdelrazekk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ziad-Abdelrazekk&theme=github_dark&utcOffset=2" height="160" alt="Commit patterns by hour (UTC+2)"/>
-
 </div>
 
 ---
