@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ziad-abd-el-razek/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://Ziad-Abdelrazekk.dev">
+  <a href="https://ziads-spaceship.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/Ziad-Abdelrazekk?tab=repositories">
