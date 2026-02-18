@@ -219,38 +219,25 @@ Requirements → Milestones → Ship → Measure → Iterate
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-  <a href="https://github.com/Ziad-Abdelrazekk">
-    <img height="170" alt="GitHub Stats"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ziad-Abdelrazekk&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=86400"/>
-    <img height="170" alt="Top Languages"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ziad-Abdelrazekk&layout=compact&hide_border=true&langs_count=8&card_width=320&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400"/>
-  </a>
+<img src="https://img.shields.io/badge/Most%20work%20lives%20in%20private%20client%20repos-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0d1117&color=0f3460"/>
 
-  <br/>
+<br/><br/>
 
-  <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak"
-      src="https://streak-stats.demolab.com?user=Ziad-Abdelrazekk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-  </a>
+<img alt="Contribution Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ziad-Abdelrazekk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=0f3460&hide_border=true&radius=6"/>
 
-  <br/>
+<br/>
 
-  <img alt="Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ziad-Abdelrazekk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true"/>
+<img alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=Ziad-Abdelrazekk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 
-  <br/>
+<br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ziad-Abdelrazekk&theme=github_dark" width="100%" alt="Profile Summary"/>
-
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ziad-Abdelrazekk&theme=github_dark" height="160" alt="Repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ziad-Abdelrazekk&theme=github_dark" height="160" alt="Most commit language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ziad-Abdelrazekk&theme=github_dark&utcOffset=2" height="160" alt="Productive time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ziad-Abdelrazekk&theme=github_dark&utcOffset=2" height="160" alt="Commit patterns by hour (UTC+2)"/>
 
 </div>
 
