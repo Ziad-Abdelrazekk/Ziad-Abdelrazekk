@@ -10,7 +10,7 @@
 
 # Ziad Abdelrazek
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Full-Stack+%26+Systems+Engineer;Realtime+Voice+%E2%80%A2+VoIP+%E2%80%A2+AI+Automation;Sub-300ms+STT+%E2%86%92+LLM+%E2%86%92+TTS+in+Production;%7E500K+req%2Fday+%C2%B7+%7E2K+concurrent+%C2%B7+Ships+in+48h)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=860&lines=Full-Stack+%26+Systems+Engineer;Backend+%C2%B7+Mobile+%C2%B7+VoIP+%C2%B7+AI+Integration;Sub-300ms+STT+%E2%86%92+LLM+%E2%86%92+TTS+Pipeline+in+Production;Node.js+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Flutter+%C2%B7+PostgreSQL)](https://git.io/typing-svg)
 
 <br/>
 
@@ -49,13 +49,11 @@
 
 ## About
 
-Final-term **Computer Science** student at **Alexandria University** (Software Industry & Multimedia track) — building production systems well before graduation.
+Computer Science graduate, Alexandria University (Software Industry & Multimedia) — building production systems end-to-end across backend, mobile, VoIP, and AI integration.
 
-I started programming at **15**, shipping games and multiplayer servers in Lua long before university. That self-taught instinct never left: I go end-to-end on everything and care deeply about **latency, reliability, security, and architecture that holds under real load.**
+3+ years shipping across telecom, education, e-commerce, and service industries. Full ownership from architecture to deployment — APIs, real-time infrastructure, mobile, VoIP pipelines, database design, and third-party integrations.
 
-Full stack ownership: backend APIs, realtime infrastructure, mobile, VoIP pipelines, database design, and integrations — whatever the system needs to ship and survive production.
-
-**Currently focused on:** low-latency voice pipelines · event-driven systems · automation tooling that eliminates manual operational work.
+**Currently focused on:** low-latency voice pipelines · event-driven architecture · AI-powered automation at production scale.
 
 ---
 
@@ -80,7 +78,7 @@ Full stack ownership: backend APIs, realtime infrastructure, mobile, VoIP pipeli
 
 **Dialer + CRM Platform**
 
-Predictive and parallel dialing engine with intelligent routing, lead state machine, and live call analytics.
+Predictive and parallel dialing engine with intelligent routing, lead lifecycle management, and real-time call analytics. Processes 10,000+ calls daily.
 
 <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,postgres&theme=dark" height="28"/>
 
@@ -89,7 +87,7 @@ Predictive and parallel dialing engine with intelligent routing, lead state mach
 
 **Realtime AI Voice Agent**
 
-Sub-300ms voice pipeline: STT → LLM → TTS over WebSockets. Structured data capture and full call automation.
+Sub-300ms end-to-end voice pipeline over WebSockets. Deepgram STT → GPT-4.1 nano → Cartesia TTS with structured data capture and fully automated call flows.
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" height="28"/>
 
@@ -100,7 +98,7 @@ Sub-300ms voice pipeline: STT → LLM → TTS over WebSockets. Structured data c
 
 **High-Scale Enrollment Platform**
 
-GPA-weighted course allocation, peak-load Firebase patterns, realtime sync, and faculty-ready Excel exports.
+GPA-based course allocation serving 2,000 concurrent users at 500K daily requests. Shipped in 48 hours under a hard institutional deadline.
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="28"/>
 
@@ -109,7 +107,7 @@ GPA-weighted course allocation, peak-load Firebase patterns, realtime sync, and 
 
 **Ops Automation & Dashboards**
 
-Payment flows, multi-step approval workflows, and realtime status boards with zero polling.
+Full payment and approval pipeline with real-time order dashboards. Reduced manual operations by 70% for an e-commerce client based in the UK.
 
 <img src="https://skillicons.dev/icons?i=react,firebase,nodejs&theme=dark" height="28"/>
 
@@ -120,7 +118,7 @@ Payment flows, multi-step approval workflows, and realtime status boards with ze
 
 **Study Assistant Platform**
 
-AI summaries, mindmaps, flashcards, quizzes, group chat, leaderboards, and **race-condition-safe 1v1 quiz matchmaking**.
+AI-generated summaries, mind maps, flashcards, and quizzes from uploaded content. Includes real-time group chat, leaderboards, and a race-condition-safe 1v1 quiz matchmaking system using atomic transactions.
 
 <img src="https://skillicons.dev/icons?i=react,firebase,nodejs&theme=dark" height="28"/>
 
@@ -129,7 +127,7 @@ AI summaries, mindmaps, flashcards, quizzes, group chat, leaderboards, and **rac
 
 **Dyslexia Support App**
 
-Scan image/PDF → extract text → accessibility-first reading (custom fonts, spacing, color themes, TTS). Arabic-first.
+OCR-based text extraction from images and documents with a fully customizable reading environment — OpenDyslexic font, adjustable spacing, color themes, and variable-speed TTS. Native Arabic (RTL) and English support.
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" height="28"/>
 
@@ -169,18 +167,20 @@ C++, C#, PHP, Lua, Angular, Bash/PowerShell, HTML/CSS — plus VoIP integrations
 
 ## Engineering Principles
 
-```
-Requirements → Milestones → Ship → Measure → Iterate
-     ↑_______________________________________|
-```
+**Measure before optimizing.**
+Profiling, distributed tracing, and load testing precede any performance work.
+Optimization without measurement is guesswork with consequences.
 
-**Measure before optimizing.** Profiling, distributed tracing, and load testing precede any performance work. Guessing is expensive.
+**Reliability is a default, not a feature.**
+Rate limiting, retries with exponential backoff, idempotency, structured logging,
+and alerting are built in from the start — not added after the first incident.
 
-**Reliability by default.** Rate limiting, retries with exponential backoff, idempotency keys, structured logging, and alerting are defaults — not afterthoughts.
+**Real-time systems require explicit discipline.**
+Backpressure, queue control, race-condition-safe flows, and clear state machines.
+Concurrency bugs don't surface in demos — they surface at 3am under load.
 
-**Realtime systems require discipline.** Backpressure, queue control, race-condition-safe flows, and explicit state machines. Realtime surfaces subtle bugs under load.
-
-**Scope tight, ship fast, iterate.** Real feedback from real users beats speculative completeness every time.
+**Ship tight, iterate fast.**
+Scoped milestones and real user feedback consistently outperform speculative completeness.
 
 ---
 
@@ -192,7 +192,7 @@ Requirements → Milestones → Ship → Measure → Iterate
 
 - **GPS attendance**: checks if students are within a radius of the lecture hall → auto attendance → professor Excel report. Zero manual entry.
 - **Enrollment system** (Flutter + Firebase): automated enrollment into courses and labs; fair allocation weighted by GPA; exports instructor-ready spreadsheets. Built and shipped in **48 hours** under a hard deadline.
-- **Full university portal concept**: attendance, academic warnings, results, billing, and instructor tools — declined due to hosting budget constraints, but the architecture was complete.
+- **Full university portal concept**: attendance tracking, academic warnings, results, billing, and instructor tooling. Architecture was completed but not deployed due to institutional hosting constraints.
 
 </details>
 
@@ -202,7 +202,7 @@ Requirements → Milestones → Ship → Measure → Iterate
 
 - **E-commerce + admin ops**: full payment flow + approval pipeline + order tracking; realtime dashboards; cut manual operational work by ~70%.
 - **Salon reservations**: dynamic admin dashboard (staff schedules, holidays, multi-location), SMS + payments, QR check-in, realtime analytics, multilingual voice booking.
-- **Cold outreach tooling**: campaign automation + warmup sequences + template management to maximize deliverability.
+- **Cold outreach tooling**: campaign automation, warmup sequences, and template management optimized for deliverability at scale.
 
 </details>
 
@@ -212,8 +212,7 @@ Requirements → Milestones → Ship → Measure → Iterate
 
 - **Dyslexia support app**: scan image or PDF → extract text → accessibility-first reading experience (custom font, spacing, color themes, TTS). Arabic-first with English support.
 - **Study assistant**: AI summaries, mindmaps, flashcards, quizzes + realtime group chat; tasks/reminders/forums/leaderboards; realtime 1v1 quiz mode with **race-condition-safe matchmaking**.
-- **RSA implementation**: built full encryption/decryption from scratch — key generation, padding, the works.
-- **Game servers in Lua, age 15**: first taste of realtime multiplayer. Never stopped shipping since.
+- **RSA implementation**: full encryption and decryption from scratch, including key generation and padding schemes.
 
 </details>
 
@@ -223,7 +222,7 @@ Requirements → Milestones → Ship → Measure → Iterate
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Most%20work%20lives%20in%20private%20client%20repos-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0d1117&color=0f3460"/>
+<img src="https://img.shields.io/badge/Production%20work%20is%20under%20client%20NDAs%20—%20public%20repos%20represent%20personal%20and%20open--source%20contributions%20only-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0d1117&color=0f3460"/>
 
 <br/><br/>
 
@@ -241,7 +240,6 @@ Requirements → Milestones → Ship → Measure → Iterate
 
 ## Open To
 
-- **Full-time roles** — Software Engineer (Full-Stack · Systems · Realtime) — remote or relocation *(visa sponsorship needed)*
 - **Collaboration** on realtime systems, AI pipelines, and performance-critical products
 - **Open source** — contributing, reviewing, or building interesting projects
 
@@ -249,9 +247,7 @@ Requirements → Milestones → Ship → Measure → Iterate
 
 <div align="center">
 
-**ziadabdelrazekk@gmail.com · Alexandria, Egypt**
-
-*If you're building something that needs to be fast, reliable, and real — let's talk.*
+ziadabdelrazekk@gmail.com
 
 </div>
 
